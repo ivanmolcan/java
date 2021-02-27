@@ -1,0 +1,7 @@
+extend - Upperbounded pouzivaj ked chces vyberat hodnotu z nejakej struktury, ale len ked chces vyberat
+
+super - ked chces len vkladat hodnoty do struktury
+
+nepouzi wildcard - vyberat a zaroven aj vkladat
+
+pouzit wildcard - ked su metody jednoduche a jednostranne

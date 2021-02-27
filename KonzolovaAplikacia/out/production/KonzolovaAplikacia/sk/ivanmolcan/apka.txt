@@ -1,0 +1,11 @@
+- nacitanie z konzoly
+zadaj heslo - kontrola hesla
+vyber pocet hracov -
+
+
+objekty
+- hrdina - zivot, sila, rychlost
+
+- zbran - sila, kritikal(2xsila)
+
+priebeh hry

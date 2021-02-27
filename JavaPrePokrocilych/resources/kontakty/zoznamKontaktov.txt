@@ -1,0 +1,4 @@
+Moja databaza
+Pocet zaznamov: 1
+Meno; Telefón; Mobil; Email
+Jaroslav Beňo;048/4199441;0909111159;jaroslav.beno2@gmail.com

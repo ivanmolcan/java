@@ -1,0 +1,7 @@
+5 Krokov
+
+- zaregistrovat driver - reprezentovane java triedou
+- vytvorit pripojenie
+- vytvorit statement
+- spustit sql prikaz
+- zavriet spojenie

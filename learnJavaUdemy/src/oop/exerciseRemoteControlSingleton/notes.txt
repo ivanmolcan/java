@@ -1,0 +1,13 @@
+- remote control - 3 methods
+One for choosing the device to connect the remote control to (make this a static method),
+and the other 2 methods are for turning that particular device on or off.
+
+Control:
+    SurroundSoundSystem
+    TV
+    Projector
+
+Person class
+
+You can define a main method in this class to test out your code.
+Initialize the devices here and have the remote connect to that device to turn it on or off.

@@ -1,0 +1,10 @@
+Devices
+Smartphones
+Laptops
+
+Steps v jednej classe
+
+1. Assembly
+2. Testing
+3. Packaging
+4. Storage

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ULM">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Plugins/plantuml4idea/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Plugins/plantuml4idea/lib" recursive="false" />
+  </library>
+</component>
